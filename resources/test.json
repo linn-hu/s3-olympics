@@ -7,6 +7,13 @@
     "key" : "00757f6e-f2b8-4fd6-8f0f-310485a76a0d",
     "anchor" : "NO_ANCHOR"
   },
+  {
+    "type" : "test",
+    "term" : "hello world",
+    "translationNotes" : null,
+    "key" : "00757h0e-f2b8-4fd6-8f0f-310485a76a0d",
+    "anchor" : "NO_ANCHOR"
+  },
 
   {
     "type" : "SITE_PAGE_HEADER",
